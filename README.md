@@ -25,4 +25,4 @@ What is a PPLNS Pool?
 
 <a href="https://vrm.poolsloth.com"> Poolsloth Pool </a> Admin = @senicar
 
-<a href="https://vrmpool.raspi-ninja.com"> Poolsloth Pool </a> Admin = @raspi-ninja
+<a href="https://vrmpool.raspi-ninja.com"> Raspi-Ninja Pool </a> Admin = @raspi-ninja
