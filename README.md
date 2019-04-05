@@ -21,7 +21,7 @@ What is a PPLNS Pool?
 
 ----- PROP Pools -----
 
-<a href="https://pools.bloxstor.com"> Bloxstor Pool </a> Admin = @seion
+<a href="https://blockbucket.net"> (Prev Bloxstor) Block Bucket Pool </a> Admin = @seion
 
 <a href="https://vrm.poolsloth.com"> Poolsloth Pool </a> Admin = @senicar
 
