@@ -13,7 +13,7 @@ What is a PPLNS Pool?
 
 <a href="https://beertendr.com"> Beertender Pool </a> Admin = @hillbillyhacker
 
-<a href="https://vrm.poolium.win"> Poolium Pool </a> Admin = @trinitrotoluene
+<a href="https://www.poolium.win"> Poolium Pool </a> Admin = @trinitrotoluene
 
 <a href="https://vrm.n3rd3d.com"> N3rd3d Pool </a> Admin = @phiten ```Registrations Closed```
 
