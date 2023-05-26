@@ -11,16 +11,7 @@ What is a PPLNS Pool?
 
 ----- PPLNS Pools -----
 
-<a href="https://beertendr.com"> Beertender Pool </a> Admin = @hillbillyhacker
+<a href="http://verium.nl.eu.org/"> Verium Mining Pool </a> Admin = @jojoosinga (Joran Osinga)
 
-<a href="https://www.poolium.win"> Poolium Pool </a> Admin = @trinitrotoluene
-
-<a href="https://vrm.n3rd3d.com"> N3rd3d Pool </a> Admin = @phiten ```Registrations Closed```
-
-<a href="https://vrm.mining-pool.ovh"> VRM Mining Pool OVH </a> Admin = @mderasse ```Registrations Closed```
 
 ----- PROP Pools -----
-
-<a href="https://blockbucket.net"> (Prev Bloxstor) Block Bucket Pool </a> Admin = @seion
-
-<a href="https://vrmpool.raspi-ninja.com"> Raspi-Ninja Pool </a> Admin = @raspi-ninja
